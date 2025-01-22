@@ -31,7 +31,7 @@
 •••••••••••••••••••••••••••••••••
 
 <p align="left">
-  <img src="assets/Screenshots/Info.png" style="width: 100%;" />
+  <img src="https://github.com/araafroyall/cleaner-royall/raw/main/assets/Screenshots/Info.png" style="width: 100%;" />
 </p>
 
 
