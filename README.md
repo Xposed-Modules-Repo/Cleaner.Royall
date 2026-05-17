@@ -51,11 +51,8 @@
 
 ### Developer Contact details
 
-Telegram id : @AraafRoyall
+Telegram channel : @CleanerRoyall
 
-Gmail : CleanerRoyall@gmail.com
-
-Gmail : AraafRoyall@gmail.com
 
 •••••••••••••••••••••••••••••••••••
 
